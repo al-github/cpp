@@ -13,7 +13,7 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    cout<<"Hello, World!"<<endl;
+    cout<<"Hola, Mundo!"<<endl;
     return 0;
 }
 
